@@ -4,9 +4,9 @@ first user chooses an option to start the match. next user selects any number fo
 
 
  ## Winning rules are as follows
- Rock vs Paper -> Paper wins
- Rock vs Scissor -> Rock wins
- Paper vs Scissor -> Scissor wins
+ - Rock vs Paper -> Paper wins
+ - Rock vs Scissor -> Rock wins
+ - Paper vs Scissor -> Scissor wins
 
  
 ## What did we use in this project
